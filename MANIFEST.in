@@ -1,0 +1,3 @@
+recursive-include jupyter-config *.json
+recursive-include tagstyler/static *.js
+include tagstyler/static/*.yaml

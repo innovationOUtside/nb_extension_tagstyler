@@ -1,0 +1,5 @@
+Type: IPython Notebook Extension
+Compatibility: 4.x, 5.x
+Name: nb_extension_tagstyler
+Main: index.js
+Description: style cell based on tags
