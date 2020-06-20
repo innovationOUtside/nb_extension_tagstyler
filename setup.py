@@ -15,7 +15,7 @@ setuptools.setup(
         ]),
         # like `jupyter nbextension enable --sys-prefix`
         ("etc/jupyter/nbconfig/notebook.d", [
-            "jupyter-config/notebook.d/tagstyler.json"
+            "jupyter-config/nbconfig/notebook.d/tagstyler.json"
         ])
     ],
     zip_safe=False
