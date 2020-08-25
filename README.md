@@ -8,7 +8,7 @@ Content in Jupyter notebook markdown cells can be styled by adding a range of `a
 
 Wouldn't it be easier if we could just tage the cell?
 
-Currently, only `alert-success`, `alert-warning` and `alert-danger` tags are supported. You also need to manually reload the notebook in the browser to render the styling.
+Currently, only `alert-success`, `alert-warning` and `alert-danger` tags are supported. You also need to manually reload the notebook in the browser to render the styling. *(TO DO: try to mod the tag entry thing so it reflows the cell styling if a cell tag is added?)*
 
 ![](.images/tagstyler.png)
 
