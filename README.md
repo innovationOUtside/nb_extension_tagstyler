@@ -4,7 +4,7 @@ Style Jupyter notebook cells by tag.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/innovationOUtside/nb_extension_tagstyler/master)
 
 
-Content in Jupyter notebook markdown cells can be styled by adding a range of `alert` class arrtibutes to to divs contained within the cell.
+Content in Jupyter notebook markdown cells can be styled by adding a range of `alert` class attributes to to `div`s contained within the cell.
 
 Wouldn't it be easier if we could just tag the cell?
 
