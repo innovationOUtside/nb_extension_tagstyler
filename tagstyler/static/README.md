@@ -3,7 +3,7 @@ Jupyter notebook extension for colouring selected cells based on tags.
 
 Currently, support:
 
-`alert-warning`, `alert-success`, `alert-danger`
+`alert-warning`, `alert-success`, `alert-danger`, `alert-info`
 
 
 

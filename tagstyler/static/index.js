@@ -11,7 +11,7 @@ define(['base/js/namespace', 'base/js/events', 'notebook/js/textcell', 'notebook
 
     var params = {};
 
-    var style_tags = ['alert-warning', 'alert-success', 'alert-danger'];
+    var style_tags = ['alert-warning', 'alert-success', 'alert-danger', 'alert-info'];
 
     // update params with any specified in the server's config file
     var update_params = function () {
