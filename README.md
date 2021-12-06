@@ -14,6 +14,10 @@ Currently, only `alert-success` (green), `alert-warning` (yellow), `alert-danger
 
 The extension also increases the notebook load time as it iterates through every cell looking for tags.
 
+Tagged cells can be trasnformed to appropriately described admonitions for use in Jupyter Book via a simple CLI command in a [separate package](https://github.com/innovationOUtside/ou-jupyter-book-tools):
+
+![](https://github.com/innovationOUtside/ou-jupyter-book-tools/raw/main/images/jupyter_book_tagstyle.png)
+
 Install via:
 
 `pip install git+https://github.com/innovationOUtside/nb_extension_tagstyler.git`
